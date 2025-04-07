@@ -1,6 +1,14 @@
+# R gitignore for R
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .Rproj
 inst/doc
+
+# Eclipse gitignor
+.metadata
+.dbeaver/project-settings.json
+.settings/
+.project
+.metadata
