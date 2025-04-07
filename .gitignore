@@ -1,5 +1,16 @@
+# R gitignore for R
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .Rproj
+.metadata
+# Eclipse gitignor
+.dbeaver/project-settings.json
+*.tmp
+*.bak
+*.swp
+local.properties
+.settings/
+.loadpath
+.project
